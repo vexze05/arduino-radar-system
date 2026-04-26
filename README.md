@@ -16,6 +16,8 @@ Built using an Arduino UNO, ultrasonic sensor, and a rotating servo, this system
 
 [![Watch Demo](images/hardware.jpg)](https://youtube.com/shorts/NZU7Fl5iFMo)
 
+![Full Setup](images/hardware-full.jpg)
+
 > LCD showing: `ANG:100 DST:44cm STATE: CAUTION`  
 > Sweep range: ~150° | Real-time scanning (approximate)
 
