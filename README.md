@@ -12,9 +12,12 @@ Built using an Arduino UNO, ultrasonic sensor, and a rotating servo, this system
 
 ## Demo
 
-![Hardware Build](images/hardware.jpg)
+🎥 Click the image below to watch the working model
+
+[![Watch Demo](images/hardware.jpg)](https://youtube.com/shorts/NZU7Fl5iFMo)
+
 > LCD showing: `ANG:100 DST:44cm STATE: CAUTION`  
-> Sweep range: ~150° | Real-time scanning (approximate refresh rate)
+> Sweep range: ~150° | Real-time scanning (approximate)
 
 ---
 
@@ -80,7 +83,7 @@ The HC-SR04 ultrasonic sensor is mounted on a servo motor that sweeps from 15° 
 
 ## Circuit Diagram
 
-![Tinkercad Circuit](images/circuit.jpg)
+![Circuit Diagram](images/circuit.jpg)
 
 ---
 
