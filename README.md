@@ -1,5 +1,7 @@
 # Radar System Using Arduino UNO
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 > Arduino-based embedded system project demonstrating real-time sensing and multi-output coordination.
 
 Real radar uses radio waves. This project simulates radar using sound.
